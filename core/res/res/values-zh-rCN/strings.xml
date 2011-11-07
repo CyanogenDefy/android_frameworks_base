@@ -36,7 +36,6 @@
     <string name="mmiError" msgid="5154499457739052907">"出现连接问题或 MMI 码无效。"</string>
     <string name="mmiFdnError" msgid="5224398216385316471">"只能对固定拨号号码执行此类操作。"</string>
 
-
     <!-- Name of wildcard profile. -->
     <string name="wildcardProfile">其它</string>
     <string name="serviceEnabled" msgid="8147278346414714315">"已启用服务。"</string>
